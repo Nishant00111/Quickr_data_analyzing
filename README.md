@@ -1,5 +1,5 @@
 # Car_Price_Predictor_Model_using_Linear_Regression
-This project aims to build a car price predictor model using linear regression and the test and train algorithm of machine learning. The dataset used for this project is from Quickr company and includes information on various car models, their features, and their prices.
+This project aims to build a car price predictor model using linear regression and the test and train algorithm of machine learning. The dataset used for this project is from Quikr company and includes information on various car models, their features, and their prices.
 
 # Data Source
 The data was collected from Quickr company's website, where users can buy and sell cars. The dataset includes information on over 10,000 cars, such as the car's make, model, year, mileage, fuel type, transmission type, and price. We cleaned and preprocessed the data by removing any missing values, duplicates, and outliers.
